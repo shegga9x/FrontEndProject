@@ -1,1 +1,12 @@
-bay gio tui se merg đc
+Bài tập tuần 1 : phối màu trang web
+Mô tả công việc :
+nhóm trưởng đã upload lên folder để các bạn upload bài tập hằng ngày
+tên folder chính tên là ExerciseCourse
+trong folder này có folder tên là Ex_sitecolorschemes(bài tập tuần này về cách phối màu)
+trong folder Ex_sitecolorschemes có 1 trang web
+Khi các bạn phối màu trang web này xong vui lòng:
+tạo 1 folder bên trong Ex_sitecolorschemes ghi tên của bạn (có thể tạo nhìu folder cho việc phối màu nhưng tối thiểu là 2)
+rùi copy cái web mà bạn phối màu lại trong folder đó
+xong rùi pull request lên branch tên ExerciseCourse
+là các bạn đã làm thành công làm xong bài tập
+chúc các bạn thành công
